@@ -1,0 +1,9 @@
+.profile-pic {
+  max-width: 4.5rem;
+  width: 4rem;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 15px;
+}
